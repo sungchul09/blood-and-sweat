@@ -1,0 +1,8 @@
+a[href^='www'] {
+  color: purple;
+}
+
+a[href$='.com'] {
+  background: beige;
+}
+
